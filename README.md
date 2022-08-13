@@ -37,7 +37,6 @@ startups and social projects, you can see then on the list below:
 - (2020) | **[RubyHero](https://rubyhero.io)** (Ruby / Ruby on Rails)
 - (2020) | **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Ruby on Rails)
 - (2021) | **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
-- (2022) | **[Sólides](https://solides.com.br/)** (Ruby on Rails)
 
 ### **CONTACT**
 You can reach me through **email** or **social networks** below:<br>
