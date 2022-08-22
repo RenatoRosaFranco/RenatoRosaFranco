@@ -15,6 +15,13 @@ web applications with frameworks like<br> **Ruby on Rails**, **Sinatra**, **Hana
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 So, as you can see my fully background as developer was composed by **Ruby**, but i was used<br>
 to play with another languages too, like: **Javascript**, **PHP** and **Python**.
@@ -28,19 +35,27 @@ startups and social projects, you can see then on the list below:
 
 - (2017) | **[Cedro Technologies](https://www.cedrotech.com/)** (Ruby / Ruby on Rails)
 - (2018) | **[Startup Culture](https://startupculture.com.br)** (Ruby / Ruby on Rails)
-- (2018) | **[Eicon Brasil](https://www.eicon.com.br/)** (Ruby / Ruby on Rails)
+- (2018) | **[Eicon Brasil](https://www.eicon.com.br/)** (Ruby / Node / Javascript / Ruby on Rails)
 - (2018) | **[Asis IT](https://asisprojetos.com.br/)** (Ruby / Ruby on Rails)
-- (2019) | **[Doutor Direto](https://www.doutordireto.com/)** (Ruby / Ruby on Rails)
+- (2019) | **[Doutor Direto](https://www.doutordireto.com/)** (Ruby / Node / Javascript / Ruby on Rails)
 - (2019) | **[Influenciaê](https://influenciae.com/)** (Ruby / Ruby on Rails)
-- (2019) | **[Move2 The Next Level](https://move2.com.br/)** (Ruby / Ruby on Rails)
-- (2020) | **[Video.bot](https://video.bot)** (Ruby / Ruby on Rails)
+- (2019) | **[Move2 The Next Level](https://move2.com.br/)** (Ruby / Node / Javascript / Ruby on Rails)
+- (2020) | **[Video.bot](https://video.bot)** (Ruby / Node / Ruby on Rails)
 - (2020) | **[RubyHero](https://rubyhero.io)** (Ruby / Ruby on Rails)
-- (2020) | **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Ruby on Rails)
+- (2020) | **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
 - (2021) | **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
+
+### **CLOUD**
+Here you can find some cloud services that i have been using along-side of the road.<br>
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### **CONTACT**
 You can reach me through **email** or **social networks** below:<br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
