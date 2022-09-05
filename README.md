@@ -50,17 +50,18 @@ develop some thing like this one day **(Battle System)**.
 On my developer journey i have worked in a lot of kind of companies, government companies, non-government<br>,
 startups and social projects, you can see then on the list below:
 
-- (2017) | **[Cedro Technologies](https://www.cedrotech.com/)** (Ruby / Ruby on Rails)
-- (2018) | **[Startup Culture](https://startupculture.com.br)** (Ruby / Ruby on Rails)
-- (2018) | **[Eicon Brasil](https://www.eicon.com.br/)** (Ruby / Node / Javascript / Ruby on Rails)
-- (2018) | **[Asis IT](https://asisprojetos.com.br/)** (Ruby / Ruby on Rails)
-- (2019) | **[Doutor Direto](https://www.doutordireto.com/)** (Ruby / Node / Javascript / Ruby on Rails)
-- (2019) | **[Influenciaê](https://influenciae.com/)** (Ruby / Ruby on Rails)
-- (2019) | **[Move2 The Next Level](https://move2.com.br/)** (Ruby / Node / Javascript / Ruby on Rails)
-- (2020) | **[Video.bot](https://video.bot)** (Ruby / Node / Ruby on Rails)
-- (2020) | **[RubyHero](https://rubyhero.io)** (Ruby / Ruby on Rails)
-- (2020) | **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
-- (2021) | **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
+- (2017) 🇧🇷| **[Cedro Technologies](https://www.cedrotech.com/)** (Ruby / Ruby on Rails)
+- (2018) 🇧🇷| **[Startup Culture](https://startupculture.com.br)** (Ruby / Ruby on Rails)
+- (2018) 🇧🇷| **[Eicon Brasil](https://www.eicon.com.br/)** (Ruby / Node / Javascript / Ruby on Rails)
+- (2018) 🇧🇷| **[Asis IT](https://asisprojetos.com.br/)** (Ruby / Ruby on Rails)
+- (2019) 🇧🇷| **[Doutor Direto](https://www.doutordireto.com/)** (Ruby / Node / Javascript / Ruby on Rails)
+- (2019) 🇧🇷| **[Influenciaê](https://influenciae.com/)** (Ruby / Ruby on Rails)
+- (2019) 🇧🇷| **[Move2 The Next Level](https://move2.com.br/)** (Ruby / Node / Javascript / Ruby on Rails)
+- (2020) 🇧🇷| **[Video.bot](https://video.bot)** (Ruby / Node / Ruby on Rails)
+- (2020) 🇧🇷| **[RubyHero](https://rubyhero.io)** (Ruby / Ruby on Rails)
+- (2020) 🇧🇷| **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
+- (2021) 🏴󠁧󠁢󠁥󠁮󠁧󠁿| **[Funding Circle](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
+- (2021) 🇧🇷| **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
 
 ### **CLOUD**
 Here you can find some cloud services that i have been using along-side of the road.<br>
