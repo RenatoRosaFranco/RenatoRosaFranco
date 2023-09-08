@@ -1,12 +1,35 @@
-## Hello, I'm Renato Franco
+<div align="center">
+  
+  ## Hello, I'm Renato Franco
+</div>
 
-![snake gif](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+   <img height="230em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoRosaFranco&theme=default&hide_border=false"/>
+   <img height="230em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRosaFranco&theme=default&show_icons=true&hide_border=false&layout=compact"/>
+</div>
 
-**Hey Folks!**<br>
-Welcome to my **Github Page**, as i sayed early, my name is **Renato Franco**<br>
-I actually live on the south of **Brasil**, in a small town called **São Borja**, 
-my prefer language is **Ruby**, <br>and most of my work experiencie is crafted by creating 
-web applications with frameworks like<br> **Ruby on Rails**, **Sinatra**, **Hanami** and **Roda**.<br>
+<br>
+
+<div align='center'>
+  
+  ## **Hey Folks!**<br>
+  Welcome to my **Github Page**, as i sayed early, my name is **Renato Franco**<br>
+  I actually live on the south of **Brasil**, in a small town called **São Borja**, 
+  my prefer language is **Ruby**, <br>and most of my work experiencie is crafted by creating 
+  web applications with frameworks like<br> **Ruby on Rails**, **Sinatra**, **Hanami** and **Roda**.<br>
+</div>
+
+<br>
+
+<div align='center'>
+  
+  ### **IDIOMAS**
+  ![PORTUGUÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README.md) /
+  ![POLONÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-pl.md) /
+  ![INGLÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-en.md) /
+  ![ESPANHOL](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-es.md) /
+  ![ALEMÃO](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-de.md)
+</div>
 
 ### **STACK**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,17 +88,26 @@ startups and social projects, you can see then on the list below:
 - (2021) 🏴󠁧󠁢󠁥󠁮󠁧󠁿| **[Funding Circle](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
 - (2021) 🇧🇷| **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
 
-### **CLOUD**
-Here you can find some cloud services that i have been using along-side of the road.<br>
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<div align='center'>
+  
+  ### **CLOUD**
+  Here you can find some cloud services that i have been using along-side of the road.<br>
+  
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+</div>
 
-### **CONTACT**
-You can reach me through **email** or **social networks** below:<br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<div align='center'>
+  
+  ### **CONTACT**
+  
+  You can reach me through **email** or **social networks** below:<br>
+  
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</div>
