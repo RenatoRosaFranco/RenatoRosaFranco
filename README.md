@@ -4,6 +4,9 @@
 </div>
 
 <div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake.svg)
+  
    <img height="330em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api?username=RenatoRosaFranco&theme=default&show_icons=true"/>
    <img height="180em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoRosaFranco&theme=default&hide_border=false"/>
    <img height="180em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRosaFranco&theme=default&show_icons=true&hide_border=false&layout=compact"/>
@@ -150,5 +153,6 @@
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 </div>
 
