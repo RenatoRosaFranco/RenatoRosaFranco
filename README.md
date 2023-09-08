@@ -24,56 +24,92 @@
 <div align='center'>
   
   ### **IDIOMAS**
-  ![PORTUGUÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README.md) /
-  ![POLONÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-pl.md) /
-  ![INGLÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-en.md) /
-  ![ESPANHOL](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-es.md) /
-  ![ALEMÃO](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-de.md)
+  <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README.md">
+    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="24" height="24">
+  </a> /   
+  <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-pl.md">
+    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/pl.png" width="24" height="24">
+  </a> / 
+  <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-en.md">
+    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/us.png" width="24" height="24">
+  </a> /
+  <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-es.md">
+    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/es.png" width="24" height="24">
+  </a> /
+  <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-de.md">
+    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/de.png" width="24" height="24">
+  </a> /
 </div>
 
-### **STACK**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<br>
+<br>
 
-So, as you can see my fully background as developer was composed by **Ruby**, but i was used<br>
-to play with another languages too, like: **Javascript**, **PHP** and **Python**.
+<div align='center'> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
+  <h3>REACTJS</h3>
+  <p>Projetos criados utilizando <strong>ReactJS</strong></p>
+  <br>
+  
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=github-repo-react&cache_seconds=86400&theme=default)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=the-venue-reactjs&cache_seconds=86400&theme=default)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=foodfork&cache_seconds=86400&theme=default)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=eventos-app&cache_seconds=86400&theme=default)]() 
+</div>
 
-My passion to learn how to code, grow up after i played **Final Fantasy XII**, i'm a bigest<br>
-fan of **RPG's** and i was amazed with the game battle system, as a young developer my dream was<br>
-develop some thing like this one day **(Battle System)**.
+<div align='center'>
+  
+  ### **STACK**
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
-On my developer journey i have worked in a lot of kind of companies, government companies, non-government<br>,
-startups and social projects, you can see then on the list below:
+<br>
+
+<div align='center'>
+  So, as you can see my fully background as developer was composed by **Ruby**, but i was used<br>
+  to play with another languages too, like: **Javascript**, **PHP** and **Python**.
+  
+  My passion to learn how to code, grow up after i played **Final Fantasy XII**, i'm a bigest<br>
+  fan of **RPG's** and i was amazed with the game battle system, as a young developer my dream was<br>
+  develop some thing like this one day **(Battle System)**.
+</div>
+
+<br>
+
+<div align='center'>
+  
+  ### MY GRAPH
+  
+  [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenatoRosaFranco&theme=vue)]() 
+</div>
+
+<br>
+
+<div align='center'>
+  
+  ### EXPERIENCES
+  
+  On my developer journey i have worked in a lot of kind of companies, government companies, non-government<br>,
+  startups and social projects, you can see then on the list below:
+</div>
+
+<br>
+<br>
 
 - (2017) 🇧🇷| **[Cedro Technologies](https://www.cedrotech.com/)** (Ruby / Ruby on Rails)
 - (2018) 🇧🇷| **[Startup Culture](https://startupculture.com.br)** (Ruby / Ruby on Rails)
@@ -87,6 +123,9 @@ startups and social projects, you can see then on the list below:
 - (2020) 🇧🇷| **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
 - (2021) 🏴󠁧󠁢󠁥󠁮󠁧󠁿| **[Funding Circle](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
 - (2021) 🇧🇷| **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
+
+
+<br>
 
 <div align='center'>
   
@@ -111,3 +150,4 @@ startups and social projects, you can see then on the list below:
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </div>
+
