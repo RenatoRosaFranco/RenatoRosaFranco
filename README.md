@@ -1,17 +1,12 @@
 ## Hello, I'm Renato Franco
 
+![snake gif](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/output/github-contribution-grid-snake.gif)
+
 **Hey Folks!**<br>
 Welcome to my **Github Page**, as i sayed early, my name is **Renato Franco**<br>
 I actually live on the south of **Brasil**, in a small town called **São Borja**, 
 my prefer language is **Ruby**, <br>and most of my work experiencie is crafted by creating 
 web applications with frameworks like<br> **Ruby on Rails**, **Sinatra**, **Hanami** and **Roda**.<br>
-
-### **IDIOMAS**
-![PORTUGUÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README.md) /
-![POLONÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-pl.md) /
-![INGLÊS](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-en.md) /
-![ESPANHOL](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-es.md) /
-![ALEMÃO](https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-de.md)
 
 ### **STACK**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
