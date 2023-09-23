@@ -3,6 +3,11 @@
   ## Hello, I'm Renato Franco
 </div>
 
+![Github](https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/5c246939-e095-414d-ae2c-f3eb86403942)
+
+
+<br>
+
 <div align="center">
   
    <img height="330em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api?username=RenatoRosaFranco&theme=default&show_icons=true"/>
