@@ -3,7 +3,8 @@
   ## Hello, I'm Renato Franco
 </div>
 
-![Github(1)](https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/6efb9644-97bf-41bc-ab0d-10b73ee523b3)
+
+![Github(3)](https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/562be2e4-fa9d-4bf5-a4cf-5e951b373bf1)
 
 
 <br>
