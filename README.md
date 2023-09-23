@@ -61,10 +61,10 @@
   <p>Projetos criados utilizando <strong>ReactJS</strong></p>
   <br>
   
-  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=github-repo-react&cache_seconds=86400&theme=default)]() 
-  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=the-venue-reactjs&cache_seconds=86400&theme=default)]() 
-  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=foodfork&cache_seconds=86400&theme=default)]() 
-  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=eventos-app&cache_seconds=86400&theme=default)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=github-repo-react&cache_seconds=86400&theme=transparent)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=the-venue-reactjs&cache_seconds=86400&theme=transparent)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=foodfork&cache_seconds=86400&theme=transparent)]() 
+  [![Default Repos](https://github-readme-stats.vercel.app/api/pin/?username=RenatoRosaFranco&repo=eventos-app&cache_seconds=86400&theme=transparent)]() 
 </div>
 
 <div align='center'>
@@ -106,7 +106,7 @@
   
   ### MY GRAPH
   
-  [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenatoRosaFranco&theme=vue)]() 
+  [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenatoRosaFranco&theme=transparent)]() 
 </div>
 
 <br>
