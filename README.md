@@ -10,9 +10,9 @@
 
 <div align="center">
   
-   <img height="330em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api?username=RenatoRosaFranco&theme=dark&show_icons=true"/>
-   <img height="180em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoRosaFranco&theme=dark&hide_border=false"/>
-   <img height="180em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRosaFranco&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+   <img height="330em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api?username=RenatoRosaFranco&theme=transparent&show_icons=true"/>
+   <img height="180em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoRosaFranco&theme=transparent&hide_border=false"/>
+   <img height="180em" alt = "RenatoRosaFranco's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRosaFranco&theme=transparent&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 <br>
@@ -29,26 +29,30 @@
 <br>
 
 <div align='center'>
-  
+
+
   ### **IDIOMAS**
   <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README.md">
-    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="24" height="24">
-  </a> /   
+    <img src="https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/58147800-7524-4184-ba10-1256622ef813" width="44" height="44">
+  </a> .
+
   <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-pl.md">
-    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/pl.png" width="24" height="24">
-  </a> / 
+    <img src="https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/6866fd37-5c10-42bf-9b5b-888af1405da3" width="44" height="44">
+  </a> .
+  
   <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-en.md">
-    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/us.png" width="24" height="24">
-  </a> /
+    <img src="https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/c5384861-c4c1-4ffe-8275-c517d7ca8339" width="44" height="44">
+  </a> .
+  
   <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-es.md">
-    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/es.png" width="24" height="24">
-  </a> /
+    <img src="https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/aeb95b8c-84d0-4a15-8fdb-5808f089e3be" width="44" height="44">
+  </a> .
+  
   <a href="https://github.com/RenatoRosaFranco/RenatoRosaFranco/blob/main/README-de.md">
-    <img src="https://github.com/RenatoRosaFranco/country-flag-icons/blob/master/country-flags-4x3-png/de.png" width="24" height="24">
-  </a> /
+    <img src="https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/36e52e25-7002-4925-b941-a15806cb5049" width="44" height="44">
+  </a>
 </div>
 
-<br>
 <br>
 
 <div align='center'> 
