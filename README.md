@@ -4,9 +4,6 @@
 </div>
 
 
-![Github(3)](https://github.com/RenatoRosaFranco/RenatoRosaFranco/assets/6882872/562be2e4-fa9d-4bf5-a4cf-5e951b373bf1)
-
-
 <br>
 
 <div align="center">
