@@ -132,6 +132,8 @@
 - (2020) 🇧🇷| **[Portal Fronteiriço](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
 - (2021) 🏴󠁧󠁢󠁥󠁮󠁧󠁿| **[Funding Circle](https://portalfronteirico.com)** (Ruby / Flutter/ Ruby on Rails)
 - (2021) 🇧🇷| **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
+- (2021) 🇧🇷| **[Avantsoft](https://avantsoft.com.br/)** (Ruby / Ruby on Rails / Swift / IOS)
+- (2021) 🇧🇷| **[Grafeno 3rd](https://grafeno.digital/)** (Ruby / Ruby on Rails)
 
 
 <br>
