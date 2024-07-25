@@ -1,3 +1,6 @@
+
+![WhatsApp Image 2024-07-25 at 20 00 26](https://github.com/user-attachments/assets/16b78d65-167c-44e9-9f13-40e7cf132c7f)
+
 <div align="center">
   
   ## Hello, I'm Renato Franco
