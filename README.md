@@ -100,6 +100,15 @@
 <br>
 
 <div align='center'>
+
+  ### Dailly Dev Profile
+  Check out my dailly dev profile.
+
+  <a href="https://app.daily.dev/rrfranco"><img src="https://api.daily.dev/devcards/v2/b7EBujA4iN5PuZZN3WAAG.png?type=wide&r=abu" width="652" alt="rrfranco's Dev Card"/></a>
+  
+</div>
+
+<div align='center'>
   
   ### MY GRAPH
   
