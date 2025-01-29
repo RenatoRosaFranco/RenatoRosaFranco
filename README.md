@@ -142,7 +142,7 @@
 - (2021) 🇧🇷| **[Repassa](https://repassa.com.br/)** (Ruby / Ruby on Rails)
 - (2023) 🇧🇷| **[Avantsoft](https://avantsoft.com.br/)** (Ruby / Ruby on Rails / Swift / IOS)
 - (2024) 🇧🇷| **[Grafeno 3rd](https://grafeno.digital/)** (Ruby / Ruby on Rails)
-
+- (2025) 🇧🇷| **[Grafeno 3rd](https://grafeno.digital/)** (Ruby / Ruby on Rails)
 
 <br>
 
